@@ -9,8 +9,6 @@ root.render (
     <App />
 );
 
-//Challenge. Render all the notes inside notes.js as a seperate Note
-//component.
 
 // If you're running this locally in VS Code use the commands:
 // npm install
